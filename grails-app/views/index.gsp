@@ -27,6 +27,6 @@
 	</head>
 	<body class="body">
         <div class="index"></div>
-        <div class="">Copy right@ 2014 saedur rahman</div>
+        <div class="">Copy right@ 2014 saedur </div>
 	</body>
 </html>
